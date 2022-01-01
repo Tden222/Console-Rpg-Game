@@ -1,0 +1,13 @@
+C:\Users\Charbel\source\repos\Console RPG game\bin\Debug\netcoreapp3.1\Console RPG game.exe
+C:\Users\Charbel\source\repos\Console RPG game\bin\Debug\netcoreapp3.1\Console RPG game.deps.json
+C:\Users\Charbel\source\repos\Console RPG game\bin\Debug\netcoreapp3.1\Console RPG game.runtimeconfig.json
+C:\Users\Charbel\source\repos\Console RPG game\bin\Debug\netcoreapp3.1\Console RPG game.runtimeconfig.dev.json
+C:\Users\Charbel\source\repos\Console RPG game\bin\Debug\netcoreapp3.1\Console RPG game.dll
+C:\Users\Charbel\source\repos\Console RPG game\bin\Debug\netcoreapp3.1\Console RPG game.pdb
+C:\Users\Charbel\source\repos\Console RPG game\obj\Debug\netcoreapp3.1\Console RPG game.AssemblyInfoInputs.cache
+C:\Users\Charbel\source\repos\Console RPG game\obj\Debug\netcoreapp3.1\Console RPG game.AssemblyInfo.cs
+C:\Users\Charbel\source\repos\Console RPG game\obj\Debug\netcoreapp3.1\Console RPG game.csproj.CoreCompileInputs.cache
+C:\Users\Charbel\source\repos\Console RPG game\obj\Debug\netcoreapp3.1\Console RPG game.dll
+C:\Users\Charbel\source\repos\Console RPG game\obj\Debug\netcoreapp3.1\Console RPG game.pdb
+C:\Users\Charbel\source\repos\Console RPG game\obj\Debug\netcoreapp3.1\Console RPG game.genruntimeconfig.cache
+C:\Users\Charbel\source\repos\Console RPG game\obj\Debug\netcoreapp3.1\Console RPG game.csproj.AssemblyReference.cache
