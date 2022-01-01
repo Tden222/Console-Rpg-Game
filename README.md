@@ -3,3 +3,5 @@ This a rpg game running on a console created by me 1 years ago,i wasn't good at 
 But i have learnt.
 btw this is a joke repository 
 
+---------------Requierments----------------
+.Net core (Visual Studio Recommended)
